@@ -1,4 +1,4 @@
-# Function to multiply two numbers
+# Function to addition two numbers
 def add(a, b):
     return a + b
 num1 = float(input("Enter first number: "))
